@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Алина",
+    "age": 21,
+    "city": "Бишкек",
+    "active": true
+  },
+  {
+    "id": "2",
+    "name": "Руслан",
+    "age": 25,
+    "city": "Ош",
+    "active": false
+  },
+  {
+    "id": "3",
+    "name": "Камила",
+    "age": 19,
+    "city": "Каракол",
+    "active": true
+  },
+  {
+    "id": "4",
+    "name": "Ильяс",
+    "age": 28,
+    "city": "Талас",
+    "active": false
+  },
+  {
+    "id": "5",
+    "name": "Жанна",
+    "age": 23,
+    "city": "Нарын",
+    "active": true
+  }
+]
